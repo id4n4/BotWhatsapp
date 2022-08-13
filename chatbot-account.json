@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "clubelitecrypto-bgga",
+  "private_key_id": "e916982b14465fb0e0bbb1cd559a3fd41a067d9d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCC6dCi+ZIwYlxJ\nimLYRPfiMyZSWsan/iAlNjuVoB8POPdWPfZc2qT0OLYiaDEf9PIfLZKJDLi3uuT4\nwR/YGo670+L0PRJE0l1BtfEwE0XyiKsgYfo4VG4YnSaSZMFxYi15wZb0+8zwE3Pc\nSO1e01t/hXMUEELC8eUEDF4SSB/WDWLGiqhi/PtxCGb6K6nwAEUiekE84twNiU//\nY1XRIAFWBc6CJWVqI7ZivrvUSnk2gSnKGqnZW4zuM7DzfQ2z5ZE/Slz/cJmw7Miq\noPRFfZXGfrmyBKzXORSf2L64N5+pXhILF/yAEKSSD7/ioCItfIOGZ3+Le/Qfevf2\nTwLQgD5pAgMBAAECggEADs3H9RYJzQTicMKAaPprmZ21IKz5N/gJxIt8c3AW8w67\nEXqSSG/FJYTgO8XSgE2fr5zkrDDPFp/A0sxsAHEIYP8V9A6P6U5sk0iyzH/xcfq4\nd0H9HK+Xf5sNyJIyOdMjV1hn7K4ov6FDgc6RYR6/gw0hNUydcBQQlMOdQ636Q6c4\nc8znjKjR7GquCfkhymt+OUWscAHzZsHZiKCKlW/RzqNNmT7FfyJa+bahiWOYPi74\nRKUt05XGb3pu6VH2wWzyeq40UYuZRm0t0XnosmXO+mbb9Ze5s+7ob3DXyCwMKzys\nYnoreegTdcUoYuHUAIvFzB5gtFOPC0h9nmgRHvIpgQKBgQC37HRIe/JtjGBWmdpq\nSijZNJX588YhUdLWwIthBG2kwn+wDgLyznhC6TO9BA/HeNGy+RHZbdY89RU/dHct\nhLfy4nhRav3WV3DAkffnIRoOSUQvWFQBG4xYrJQ/2ATtLGzlTxBCzjGa8zBBA6rC\n6fx4S930u4Fktni8UcYtRTW/+QKBgQC2N0XTMDnBN13iReLJmC/mL5i1NpVozoe5\n/2KSLewKWPgjVwB3Tylbf9fqHw1rur3sEdJ2GPnlKBouWkXzaVMix5rGrLwsdroY\n7kkD37vgvd1dZNvFRbkWgrdPRlBS0/ZEAu2llodI+m0DjNd/B9E1aONlNH2R5xuO\neyDFjNXt8QKBgFoTE1/sU+4SsZu3/Z/QcfDuMAUZvg7TY86Ivbnl0Uy/dIlkU01W\nkM80JoKLWq72HLzp/jPd9u4jmSRahYNlXDE3eHVnUKmIaU/mLOKk833Lo/kL6Rgh\nxbonyvL5eHAvMaWb8vrEwMaCEz/D6/1JWrwPa8RPkC8irj6MTeId4xUBAoGBAIFG\ndaN/c3pBbbo7Gssrzc/htNXcA+R3opOzPJu5ON2egW2RLCN5Zj4kVWsk3MCxnEz/\n1/ExhxmteeWo5jfrYbArLQQHSPnCwgUuCV9WPFUWXxcDl2g+LzJpSuRTXmllODLI\nYRI52YFNKkp6gej+As+ButLyiqQY8tQDRxzg7mYBAoGAJkY+JEv4QAgrczoH7EeZ\nfWKkJxTMMrgBGs0foXHCRh84BQX8h5xdXpJYS9gwWbOQkC6Bu7z138dcqgUpoMAJ\nfTB3EZmBIEAWOoBSCzukn0t3SI1uwVsk7LPsGm+ghh2jxVnEqZJePWF9ZinkJfmI\na0Y4KM9sgPQ6shM/gYIG/OI=\n-----END PRIVATE KEY-----\n",
+  "client_email": "clubelitecrypto@clubelitecrypto-bgga.iam.gserviceaccount.com",
+  "client_id": "104643598777961244457",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/clubelitecrypto%40clubelitecrypto-bgga.iam.gserviceaccount.com"
+}
